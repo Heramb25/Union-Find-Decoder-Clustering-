@@ -19,3 +19,9 @@ Union-Find-Decoder-Clustering-
     ├── create_graph.py
     ├── union_find.py
     └── uf_visualization.py
+
+```
+## Install the required packages using:
+```text
+pip install networkx matplotlib jupyter
+```
